@@ -15,7 +15,12 @@ El acceso se puede realizar desde Postman
 1.laptop
 2.laptopRepository
 3.laptopController
-Buscar todas las laptops 
-Buscar una laptop
-Crear una laptop
-Borrar una laptop
+ 1.Buscar todas las laptops 
+ 2.Buscar una laptop
+ 3.Crear una laptop
+ 4.Borrar una laptop
+ 5.Borrar todas las laptops
+ 6.Modificar una laptop
+ 
+ 
+*UnitTest
